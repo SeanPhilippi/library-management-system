@@ -1,0 +1,29 @@
+Assignment: Building a Library Management System
+
+You are required to build a library management system using Python and SQL. The system should allow librarians to add, remove, and update books in the library, as well as search for books by their titles or authors.
+
+Requirements:
+
+Use Python to build the frontend of the application and SQL to build the database backend.
+Use a GUI library such as Tkinter or PyQT to create a user interface.
+Use an SQL database management system such as MySQL or PostgreSQL to store and manage the book data.
+Implement the following functionalities:
+Add a new book to the library
+Update an existing book in the library
+Remove a book from the library
+Search for a book by title or author
+Display a list of all books in the library
+Create a schema for the SQL database to store book information, including the book's title, author, publisher, publication date, ISBN, and number of copies available.
+Use SQL commands to create, read, update, and delete data in the database.
+Deliverables:
+
+A Python script that implements the library management system.
+A SQL schema for the book database.
+Documentation that includes instructions for running the application and screenshots of the user interface.
+A brief reflection on the project that includes what you learned and what you would do differently next time.
+IDE and packages:
+
+PyCharm is a popular IDE for Python and is recommended for this project.
+For SQL, you can use MySQL or PostgreSQL as mentioned earlier.
+For Python packages, you will need to install the GUI library (e.g. Tkinter or PyQT), as well as any necessary SQL packages (e.g. MySQL Connector or psycopg2).
+This assignment will give you the opportunity to practice building a full-stack application using both Python and SQL, which is a valuable skill for any software developer. Good luck and have fun!

@@ -1,0 +1,50 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore the virtual environment directory
+venv/
+
+# Ignore sensitive information
+*.env
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+*.pyproj
+*.bak
+
+# Ignore static files collected for production
+static/
+public/
+
+# Ignore media/uploads directory
+media/
+
+# Ignore database files
+*.sqlite3
+
+# Ignore log files and other generated files
+logs/
+*.log
+*.tar.gz
+
+# Ignore local development settings
+settings_local.py
+
+# Ignore Django migration files (optional)
+**/migrations/
+
+# Ignore cache files
+*.cache
+
+# Ignore secret key file
+secret_key.txt
+
+# Ignore .DS_Store files (for macOS)
+.DS_Store
+
+# Ignore other miscellaneous files
+*.swp
+*.swo
+*.bak
